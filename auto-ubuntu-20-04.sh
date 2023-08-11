@@ -56,5 +56,5 @@ log_command "echo \"Rails version:\""
 log_command "rails -v"
 
 echo "Setup complete!" | tee -a "$LOG_FILE"
-echo "Trust in god!"  | tee -a "$LOG_FILE"
+echo "Trust in god!"
 
