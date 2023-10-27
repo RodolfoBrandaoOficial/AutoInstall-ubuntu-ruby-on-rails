@@ -1,21 +1,25 @@
 # AutoInstall-ubuntu-ruby-on-rails
 
+🚀 Thinking about the complexity of installing the Ruby on Rails feature, I've created this auto installer in bash for Ubuntu. 
 
-Thinking about the complexity of installing the ruby on rails feature, I create this auto install in bash for ubuntu
+Just Follow Step by Step:
 
-Just Follow Step by Step
-First step: 
+🔷 First Step: 
+```bash
 git clone https://github.com/QuanticoBit/AutoInstall-ubuntu-ruby-on-rails.git
 
-Second step:
+🔷 Second Step:
+
 cd AutoInstall-ubuntu-ruby-on-rails
 
-Third step:
-chmod +x auto-ubuntu-XX-XX.sh   --->   Exemplo: chmod +x auto-ubuntu-20-04.sh
+🔷 Third Step:
 
-Fourth step:
-./auto-ubuntu-XX-XX.sh   --->   Exemplo: ./auto-ubuntu-20-04.sh
+chmod +x auto-ubuntu-XX-XX.sh   --->   Example: chmod +x auto-ubuntu-20-04.sh
 
 
+🔷 Fourth Step:
 
-Under development :D
+./auto-ubuntu-XX-XX.sh   --->   Example: ./auto-ubuntu-20-04.sh
+
+🚧 Under development! 😄
+
