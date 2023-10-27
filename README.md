@@ -9,16 +9,16 @@ Just Follow Step by Step:
 git clone https://github.com/QuanticoBit/AutoInstall-ubuntu-ruby-on-rails.git
 
 🔷 Second Step:
-
+```bash
 cd AutoInstall-ubuntu-ruby-on-rails
 
 🔷 Third Step:
-
+```bash
 chmod +x auto-ubuntu-XX-XX.sh   --->   Example: chmod +x auto-ubuntu-20-04.sh
 
 
 🔷 Fourth Step:
-
+```bash
 ./auto-ubuntu-XX-XX.sh   --->   Example: ./auto-ubuntu-20-04.sh
 
 🚧 Under development! 😄
