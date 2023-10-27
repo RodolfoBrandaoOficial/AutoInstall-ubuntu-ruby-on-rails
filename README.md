@@ -4,11 +4,11 @@
 
 Just Follow Step by Step:
 
-#🔷 **First Step**: 
+🔷 **First Step**: 
 ```bash
 git clone https://github.com/QuanticoBit/AutoInstall-ubuntu-ruby-on-rails.git
 ```
-#🔷 **Second Step**:
+🔷 **Second Step**:
 ```bash
 cd AutoInstall-ubuntu-ruby-on-rails
 ```
